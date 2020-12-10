@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+.App {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-image: radial-gradient(white, #ffd700);
+  font-family: "Montserrat", sans-serif;
+}
+
+.awesome {
+  text-align: center;
+  text-shadow: 5px 5px yellow;
+  color: black;
+}
+
+.genres {
+  line-height: 30px;
+  width: 10rem;
+  margin-bottom: 1rem;
+}
+
+.genres:hover {
+  background-color: black;
+  color: white;
+}
+
+.title-text {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 1rem;
+}
+
+.author {
+  font-size: 17px;
+}
+
+.rating {
+  font-size: 15px;
+}
+
+.gist {
+  text-align: justify;
+  margin-bottom: 2rem;
+  margin-right: 20%;
+  margin-left: 20%;
+  font-size: 18px;
+}
+
+.img {
+}
